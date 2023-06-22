@@ -1,5 +1,5 @@
 /** Seance du 22/06/2023
-
+exo random
  */
 //creer une variable de requete
 let url = "https://randomuser.me/api/";
