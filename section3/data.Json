@@ -1,0 +1,15 @@
+{
+    "nom" : "MOUSSA",
+    "salaire": 200000.95,
+    "Languages": [
+        "Java","JavaScript","Python"
+    ],
+    "Adresse" :{
+        "Rue" : "Henry Bourassa",
+        "Ville" : "Montreal",
+        "Phone" : {
+            "Mobile":"514-222-6765",
+            "Home":"577-111-666"
+        }
+    }
+}
